@@ -4,6 +4,7 @@
     <description>
         A health care mobile application.
     </description>
+    <plugin name="cordova-plugin-geolocation" specs="~1.0.0"/>
     <author email="support@phonegap.com" href="http://phonegap.com">
         Akilesh Prayagsing
         Kreshven Maunick
@@ -11,3 +12,4 @@
     <content src="index.html" />
     <access origin="*" />
 </widget>
+
